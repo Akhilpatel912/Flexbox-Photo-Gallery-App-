@@ -1,0 +1,9 @@
+#boxes {
+    height: 400px;
+    width: 80vw;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+  }
